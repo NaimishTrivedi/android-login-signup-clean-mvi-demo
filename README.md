@@ -43,3 +43,27 @@ git clone https://github.com/NaimishTrivedi/android-login-signup-clean-mvi-demo.
 open in Android Studio
 Build → Run
 ```
+---
+## 🔄 Related Backend Project (Ktor)
+
+This Android demo app is fully connected with my Ktor backend, which handles the Login & Signup API.
+If you want to explore the complete flow (client + server), check the backend repo:
+
+### 👉 Ktor Backend Repo:
+https://github.com/NaimishTrivedi/ktor-auth-backend-clean-architecture-demo
+
+### 📌 Backend Highlights
+
+* Kotlin + Ktor
+* Clean Architecture
+* Koin Dependency Injection
+* SQLite database
+* /login and /signup POST APIs
+* Lightweight, easy-to-run demo server
+
+This helps understand the end-to-end authentication architecture between Android + Ktor.
+
+---
+<div align="center">
+⭐ If you like this project, consider giving it a star!
+</div>
