@@ -35,12 +35,12 @@ This helps in faster UI development + isolated UI testing.
 * Material 3
 * MVI + UseCases
 
-### ▶️ Screenrecord
+### ▶️ 👇 Click on to show demo video
 
-<video width="100%" controls>
-  <source src="screenrecord/mvidemo.webm" type="video/webm">
-  Your browser does not support HTML video.
-</video>
+<a href="screenrecord/mvidemo.webm">
+  <img src="screenrecord/thumbnail.png" width="350" height="622"/>
+</a>
+
 
 ### 📦 How to Run
 ```bash
